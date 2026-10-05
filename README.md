@@ -1,7 +1,7 @@
 # 🚆 IRCTC Train Booking Automation — Selenium with Python
 
 <p align="center">
-  <img src="https://contents.irctc.co.in/en/images/logo.png" alt="IRCTC Logo" width="180">
+  <img src="https://www.irctc.co.in/nget/assets/images/logo.png" alt="IRCTC Logo" width="180">
 </p>
 
 <p align="center">
